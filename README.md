@@ -1,1 +1,1 @@
-# M2-Embedded_ProjectType_Goal
+# M2-Embedded_HeatControlSystem
