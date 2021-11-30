@@ -50,22 +50,22 @@ It will be helpful in preventing fire accidents in any places.
 ### High Level Requirements
 | ID   |       Description           |  Status |
 |-------------|:------------------:|---------------:|
-| HR_1 |  Microcontroller  | Implemented |
-| HR_2 |  Buzzer | Implemented |
-| HR_3 |  Resistor | Implemented |
-| HR_4 |  Capacitor  | Implemented |
-| HR_5 |  Button  | Implemented |
-| HR_6 |  AVR-ISP PROGRAMMER | Implemented |
+| HLR_1 |  Microcontroller  | Implemented |
+| HLR_2 |  Buzzer | Implemented |
+| HLR_3 |  Resistor | Implemented |
+| HLR_4 |  Capacitor  | Implemented |
+| HLR_5 |  Button  | Implemented |
+| HLR_6 |  AVR-ISP PROGRAMMER | Implemented |
 
 ### Low Level Requirements
 | ID   |       Description           |  Status |
 |-------------|:------------------:|---------------:|
-| LR_1 | ATmega328P   | Implemented |
-| LR_2 | Servo motor(sg90)  | Implemented |
-| LR_3 | 10KΩ resistor  | Implemented |
-| LR_4 | 1KΩ resistor   | Implemented |
-| LR_5 | 220Ω resistor | Implemented |
-| LR_6 | 100nF capacitor  | Implemented |
-| LR_7 | AVR-ISP PROGRAMMER  | Implemented |
-| LR_8 | Buzzer | Implemented |
-| LR_9 | Button | Implemented |
+| LLR_1 | ATmega328P   | Implemented |
+| LLR_2 | Servo motor(sg90)  | Implemented |
+| LLR_3 | 10KΩ resistor  | Implemented |
+| LLR_4 | 1KΩ resistor   | Implemented |
+| LLR_5 | 220Ω resistor | Implemented |
+| LLR_6 | 100nF capacitor  | Implemented |
+| LLR_7 | AVR-ISP PROGRAMMER  | Implemented |
+| LLR_8 | Buzzer | Implemented |
+| LLR_9 | Button | Implemented |
