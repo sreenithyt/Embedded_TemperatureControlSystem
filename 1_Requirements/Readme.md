@@ -51,16 +51,21 @@ It will be helpful in preventing fire accidents in any places.
 | ID   |       Description           |  Status |
 |-------------|:------------------:|---------------:|
 | HR_1 |  Microcontroller  | Implemented |
-| HR_2 |    | Implemented |
-| HR_3 |  | Implemented |
-| HR_4 |    | Implemented |
-| HR_5 |    | Implemented |
+| HR_2 |  Buzzer | Implemented |
+| HR_3 |  Resistor | Implemented |
+| HR_4 |  Capacitor  | Implemented |
+| HR_5 |  Button  | Implemented |
+| HR_6 |  AVR-ISP PROGRAMMER | Implemented |
 
 ### Low Level Requirements
 | ID   |       Description           |  Status |
 |-------------|:------------------:|---------------:|
-| LR_1 |    | Implemented |
-| LR_2 |   | Implemented |
-| LR_3 |   | Implemented |
-| LR_4 |    | Implemented |
-| LR_5 |   | Implemented |
+| LR_1 | ATmega328P   | Implemented |
+| LR_2 | Servo motor(sg90)  | Implemented |
+| LR_3 | 10KΩ resistor  | Implemented |
+| LR_4 | 1KΩ resistor   | Implemented |
+| LR_5 | 220Ω resistor | Implemented |
+| LR_6 | 100nF capacitor  | Implemented |
+| LR_7 | AVR-ISP PROGRAMMER  | Implemented |
+| LR_8 | Buzzer | Implemented |
+| LR_9 | Button | Implemented |
