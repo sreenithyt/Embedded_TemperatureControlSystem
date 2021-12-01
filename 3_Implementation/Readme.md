@@ -1,6 +1,6 @@
-# M2_Embedded_SeatHeatingApplication
+# M2_Embedded_HeatControlSystem
  
-## Embedded C Programming - Seat Heating Application
+## Embedded C Programming - Heat Control System
 ## Activity-1 In Action
 
 |OFF|OFF|OFF|ON|
