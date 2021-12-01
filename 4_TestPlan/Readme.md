@@ -7,6 +7,6 @@
 
 ### Low level test plan
 |Test ID|Description|Exp o/p|Actual out|
-|-------|:---------------::------------|:---------------:|
+|-------|:---------------:|:------------|:---------------:|
 |LLT_01|Buzzer  | Alarm sound           |Alarm sound           |
 |LLT_02|	Fire sensor|Fire sensed                |Fire sensed             |
