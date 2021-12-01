@@ -1,9 +1,9 @@
 /**
  * @file Activity1.h
- * @author Preetham N (Preethamnalla4@gmail.com)
+ * @author sreenithyt (sreenithy27@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-04-29
+ * @date 2021-12-1
  * 
  * @copyright Copyright (c) 2021
  * 
