@@ -1,6 +1,6 @@
 
 /**
- * @file SeatHeatingApp.c
+ * @file HeatControlSystem.c
  * 
  */
 
