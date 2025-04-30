@@ -1,5 +1,5 @@
-# Embedded_TemperatureControlSystem
-A temperature control system is build using Atmega328.The button sensor first senses is a passenger or driver is onboarded in the car. When both button sensor and temperature sensor are turned on the led glows.Only then the temperature sensor works and takes values from the ADC whose output is shown as pulse width modulation. All the data is transffered using UART communication protocal.
+# FrostByte
+FrostByte is a temperature in-vehicle monitoring system built on the ATmega328 microcontroller, designed to enhance cabin awareness through smart sensor integration. A button sensor first detects driver or passenger presence; only then does the temperature sensor activate, feeding analog data to the 10-bit ADC. The resulting value drives a PWM output that reflects temperature intensity. An LED indicates when both sensors are active, and all key data—occupancy, temperature, ADC output, and PWM duty cycle—is transmitted via UART for external monitoring. This event-driven design ensures efficient operation, making FrostByte a practical solution for intelligent automotive systems.
 
 WHEN ON
 
